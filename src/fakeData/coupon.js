@@ -5,7 +5,7 @@ export const Coupon=
             "title": "Summer Gift Voucher",
             "couponCode": "SUMMER22",
             "endTime": "2023-12-30T12:54:00.000Z",
-            "discountPercentage": 10,
+            "discountPercentage": 20,
             "minimumAmount": 500,
             "productType": "Cloths",
             "logo": "https://i.ibb.co/23kQcB9/ins3.jpg",
